@@ -1,0 +1,10 @@
+.slot {
+  padding: 10px;
+  height: 50px;
+  width: 50px;
+  border: none;
+  border-radius: 50%;
+  background-color: lightgrey;
+  cursor: pointer;
+}
+
