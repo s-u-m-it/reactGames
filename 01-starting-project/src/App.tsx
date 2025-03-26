@@ -5,12 +5,12 @@ import HeaderTetris from "./components/Tetris/HeaderTetris.tsx";
 
 function App() {
   return (
-    <>
+    <div>
       <HeaderConnect />
       <ConnectBoard />
       <HeaderTetris />
       <TetrisBoard />
-    </>
+    </div>
   );
 }
 
